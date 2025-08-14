@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/johnson7788-multiagentppt-badge.png)](https://mseep.ai/app/johnson7788-multiagentppt)
+
 # 🚀 MultiAgentPPT
 
 作者微信答疑解惑：
