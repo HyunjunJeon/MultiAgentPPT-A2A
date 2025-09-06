@@ -1,5 +1,3 @@
-[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/johnson7788-multiagentppt-badge.png)](https://mseep.ai/app/johnson7788-multiagentppt)
-
 # 🚀 MultiAgentPPT
 **News**: 当前的版本不再维护，因为PPT内容和模版无法很好的维护，所以采用新的方案重构。 推荐采用PPT的模版的方式，更企业化的版本： https://github.com/johnson7788/TrainPPTAgent
 
