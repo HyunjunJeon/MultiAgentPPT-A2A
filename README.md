@@ -92,7 +92,7 @@ flowchart TD
     I2 --> RAG2[自动知识库检索 RAG]
     I3 --> RAG3[自动知识库检索 RAG]
 
-    RAG1 --> J
+    RAG1 --> J[SummaryAgent合并结果]
     RAG2 --> J
     RAG3 --> J
 

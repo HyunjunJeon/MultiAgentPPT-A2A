@@ -28,7 +28,7 @@ root_agent = SequentialAgent(
     description="多Agent写作系统的总协调器",
     sub_agents=[
         split_topic_agent,
-        parallel_search_agent,
+        ll,
         ppt_generator_loop_agent
     ],
     before_agent_callback=before_agent_callback
