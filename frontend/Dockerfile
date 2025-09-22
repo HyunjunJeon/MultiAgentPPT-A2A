@@ -2,6 +2,8 @@
 
 FROM node:22-alpine
 
+RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories
+
 WORKDIR /app
 RUN apk update
 RUN apk add --no-cache openssl
